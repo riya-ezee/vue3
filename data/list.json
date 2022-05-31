@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Riya",
+        "Age": 20,
+        "Address": "Surat"
+    },
+    {
+        "Name": "Krishna",
+        "Age": 20,
+        "Address": "Mandvi"
+    },
+    {
+        "Name": "Anjali",
+        "Age": 22,
+        "Address": "Vadodra"
+    },
+    {
+        "Name": "Priyanka",
+        "Age": 28,
+        "Address": "Surat"
+    },
+    {
+        "Name": "Hemali",
+        "Age": 25,
+        "Address": "Surat"
+    }
+]
